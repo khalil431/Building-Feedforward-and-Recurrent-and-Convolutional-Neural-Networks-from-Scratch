@@ -91,8 +91,8 @@ for epoch in range(1000):
 
   if epoch % 100 == 99:
     print('--- Epoch %d' % (epoch + 1))
-    print('Train:\tLoss %.3f | Accuracy: %.3f' % (train_loss, train_acc))
+    print('Train:\tLoss %.3f | Accuracy: %.3f' % (train_loss[0], train_acc))
 
 
     test_loss, test_acc = processData(test_data, backprop=False)
-    print('Test:\tLoss %.3f | Accuracy: %.3f' % (test_loss, test_acc))
+    print('Test:\tLoss %.3f | Accuracy: %.3f' % (test_loss[0], test_acc))
