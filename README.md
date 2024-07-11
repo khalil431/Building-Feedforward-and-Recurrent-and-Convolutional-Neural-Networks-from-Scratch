@@ -1,6 +1,6 @@
 # Building Feedforward, Recurrent, and Convolutional Neural Networks from Scratch
 
-This is a project where I programmed neural networks and recurrent neural networks from scratch. The regular feedforward neural networks were trained to predict the gender of a person based on their weight and height, while the recurrent neural network was trained for sentiment analysis by predicting whether a sentence is positive or negative. 
+This personal project involves programming feedforward neural networks, recurrent neural networks, and convolutional neural networks from scratch. The regular feedforward neural network was trained to predict the gender of a person based on their weight and height, the recurrent neural network was trained for sentiment analysis by predicting whether a sentence is positive or negative, and the convolutional neural network was trained to solve the MNIST handwritten digit classification problem.
 
 ## Table of Contents
 
