@@ -15,7 +15,7 @@ Step-by-step instructions on how to get the development environment running.
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/your-repository-name.git
+git clone https://github.com/khalil431/Building-Feedforward-and-Recurrent-and-Convolutional-Neural-Networks-from-Scratch.git
 
 # Change into the project directory
 cd Building-Feedforward-and-Recurrent-and-Convolutional-Neural-Networks-from-Scratch
