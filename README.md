@@ -51,7 +51,7 @@ python cnn.py
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Acknowledgements
+## Acknowledgments
 
 This project is based on the work by Victor Zhou, licensed under the MIT License.
 
