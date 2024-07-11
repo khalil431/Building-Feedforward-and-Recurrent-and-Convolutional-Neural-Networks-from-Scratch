@@ -6,7 +6,6 @@ This is a project where I programmed neural networks and recurrent neural networ
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
 - [Acknowledgments](#acknowledgments)
 
@@ -21,6 +20,9 @@ git clone https://github.com/your-username/your-repository-name.git
 # Change into the project directory
 cd Building-Feedforward-and-Recurrent-and-Convolutional-Neural-Networks-from-Scratch
 ```
+
+## Usage
+
 If you wish to run the feedforward neural network:
 
 ```bash
