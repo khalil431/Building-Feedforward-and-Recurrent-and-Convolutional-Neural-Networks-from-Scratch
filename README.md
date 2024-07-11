@@ -53,7 +53,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Acknowledgments
 
-This project is based on the work by Victor Zhou, licensed under the MIT License.
+This project is based on the work by Victor Zhou, licensed under the MIT License. Tutorial can be followed here https://victorzhou.com/series/neural-networks-from-scratch/.
 
 
 
